@@ -23,12 +23,12 @@ const Projects = () => {
                     <h1 className=' font-bold mt-2 text-2xl text-orange-600'>Chef Hunter</h1>
                     <h1 className='font-semibold my-2'>Technology:</h1>
                     <p>Html, Tailwind css, Javascript, React,<br></br> Mongodb, Firebase, Node js, Express js</p>
-                    <div className='my-3 mx-auto text-white flex'>
-                        <button className='btn btn-outline text-white bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500  me-2 border-red-600'><a href="https://assignment-10-8d3cd.web.app/"> Live Site</a></button>
+                    <div className='my-3 mx-auto  text-white flex '>
+                        <button className='btn btn-outline text-white bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500  me-1 border-red-600'><a href="https://assignment-10-8d3cd.web.app/"> Live Site</a></button>
 
-                        <button className='btn btn-outline text-white bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500  me-2 border-red-600'><a href="https://github.com/rhrubelr/chef-hunter-client">Github</a></button>
+                        <button className='btn btn-outline text-white bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 me-1  border-red-600'><a href="https://github.com/rhrubelr/chef-hunter-client">Github</a></button>
 
-                        <button className='btn btn-outline text-white  bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 border-red-600 ' onClick={() => window.my_modal_5.showModal()}>
+                        <button className='btn btn-outline  text-white  bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 me-2 border-red-600 ' onClick={() => window.my_modal_5.showModal()}>
                             Veiw Details
 
                             {/* Open the modal using ID.showModal() method */}
@@ -90,11 +90,11 @@ const Projects = () => {
                     <h1 className='font-semibold my-2'>Technology:</h1>
                     <p>Html, Tailwind css, Javascript, React,<br></br> Mongodb, Firebase, Node js, Express js</p> 
                     <div className='my-3 mx-auto text-white flex'>
-                        <button className='btn btn-outline text-white bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500  me-2 border-red-600'>Live Site</button>
+                        <button className='btn btn-outline text-white bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500  me-1 border-red-600'>Live Site</button>
 
-                        <button className='btn btn-outline text-white bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500  me-2 border-red-600'>Github</button>
+                        <button className='btn btn-outline text-white bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500  me-1 border-red-600'>Github</button>
 
-                        <button className='btn btn-outline text-white  bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 border-red-600' onClick={() => window.my_modal_6.showModal()}>
+                        <button className='btn btn-outline  text-white  bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 me-2 border-red-600' onClick={() => window.my_modal_6.showModal()}>
                             Veiw Details
 
                             {/* Open the modal using ID.showModal() method */}
@@ -156,11 +156,11 @@ const Projects = () => {
                     <h1 className='font-semibold my-2'>Technology:</h1>
                     <p>Html, Tailwind css, Javascript, React,<br></br> Mongodb, Firebase, Node js, Express js</p>
                     <div className='my-3 mx-auto text-white flex'>
-                        <button className='btn btn-outline text-white bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500  me-2 border-red-600'>Live Site</button>
+                        <button className='btn btn-outline text-white bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500  me-1 border-red-600'>Live Site</button>
 
-                        <button className='btn btn-outline text-white bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500  me-2 border-red-600'>Github</button>
+                        <button className='btn btn-outline text-white bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500  me-1 border-red-600'>Github</button>
 
-                        <button className='btn btn-outline text-white  bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 border-red-600' onClick={() => window.my_modal_7.showModal()}> Veiw Details
+                        <button className='btn btn-outline  text-white  bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 me-2 border-red-600' onClick={() => window.my_modal_7.showModal()}> Veiw Details
 
 
                             {/* Open the modal using ID.showModal() method */}
